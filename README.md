@@ -32,7 +32,7 @@ const mar = {
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
-<img src = "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width = "60"> <em> <b>Me encanta conectarme con diferentes personas, así que si quieres saludar ,<b> ¡estaré feliz de conocerte más! </b> 😊 </em>
+<img src = "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width = "60"> <em> <b>Me encanta conectarme con diferentes personas, </b> así que si quieres saludar ,<b> ¡estaré feliz de conocerte más! </b> 😊 </em>
 
 [![GitHub MarielCastillo](https://img.shields.io/github/followers/MarielCastillo?label=follow&style=social)](https://github.com/MarielCastillo) 
 [![Linkedin: MarielCastillo](https://img.shields.io/badge/-MarielCastillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariel-castillo-08980b18b/)](https://www.linkedin.com/in/mariel-castillo-08980b18b/)
