@@ -31,11 +31,11 @@ const mar = {
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-
-<img src = "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width = "60"> <em> <b>Me encanta conectarme con diferentes personas, </b> así que si quieres saludar ,<b> ¡estaré feliz de conocerte más! </b> 😊 </em>
-
 [![GitHub MarielCastillo](https://img.shields.io/github/followers/MarielCastillo?label=follow&style=social)](https://github.com/MarielCastillo) 
 [![Linkedin: MarielCastillo](https://img.shields.io/badge/-MarielCastillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariel-castillo-08980b18b/)](https://www.linkedin.com/in/mariel-castillo-08980b18b/)
+
+
+<img src = "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width = "60"> <em> <b>Me encanta conectarme con diferentes personas, </b> así que si quieres saludar ,<b> ¡estaré feliz de conocerte más! </b> 😊 </em>
 
 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=MarielCastillo&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
