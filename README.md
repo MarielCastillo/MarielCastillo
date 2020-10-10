@@ -23,8 +23,6 @@ const acercaMio = {
 
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-###  Contactame
 [![GitHub MarielCastillo](https://img.shields.io/github/followers/MarielCastillo?label=follow&style=social)](https://github.com/MarielCastillo) 
 [![Linkedin: MarielCastillo](https://img.shields.io/badge/-MarielCastillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariel-castillo-08980b18b/)](https://www.linkedin.com/in/mariel-castillo-08980b18b/)
 
