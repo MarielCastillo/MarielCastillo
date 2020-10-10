@@ -8,11 +8,18 @@
    >               Queria contar un poco de mi
 
 ```javascript
-const acercaMio = {
-	apodo: "Mar Mar",
-	estudios: ['Ada', 'Despegar IT', 'Mind Hub', 'Telefonica']
-	habilidadesTecnologicas: ['HTML/CSS', 'JavaScript', 'React, Java', 'SpringBoot', 'SQL']
-}
+const mar = {
+    pronouns: "She" | "He",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Node", "React"],
+            css: ["gulp", "sass"]
+        },
+        backEnd: ["Java", "SpringBoot"],
+        databases: ["MySql", "mongoDB"],
+    }
+};
 ```
 
 
