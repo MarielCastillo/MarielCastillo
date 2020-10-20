@@ -9,7 +9,7 @@
 
 ```javascript
 const mar = {
-    pronouns: "She" | "He",
+    pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
@@ -23,7 +23,7 @@ const mar = {
 ```
 
 
-### Lenguajes de programación 💻
+### Tech Skills 💻
 
 | [<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" alt="html" width="50">]() | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUIOwYDIXCPqQKQft3okrXfvRhEV_ALEqv1w&usqp=CAU" alt="css" width="50">]()  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="48">]()  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="react" width="58">]() |   [<img src="https://qph.fs.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1.webp" alt="java" width="56">]() |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-I9OvCTfMtvDPYdBVGqKdv2zPItzf9n-99Q&usqp=CAU" alt="springboot" width="57">]() | [<img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="mysql" width="58">]()
 |---|---|---|---|---|---|---|
