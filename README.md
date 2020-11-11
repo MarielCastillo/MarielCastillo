@@ -42,4 +42,4 @@ const mar = {
 
 ⌨️ con ❤️ por [Mariel Castillo](https://github.com/MarielCastillo) 😊
 
-> *2020-10-09 18:41:19 Friday*
+> *2020-10-09 18:41:19 Friday*  :octocat:
